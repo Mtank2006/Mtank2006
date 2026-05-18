@@ -1,6 +1,4 @@
-<h2 align="center">
-  <font color="#65B524">Hi there 👋</font>
-</h2>
+##Hi there 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
