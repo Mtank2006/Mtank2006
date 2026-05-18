@@ -1,5 +1,5 @@
 <h2 align="center">
-  <span style="color:#65B524;">Hi there 👋</span>
+  <font color="#65B524">Hi there 👋</font>
 </h2>
 
 <p align="center">
