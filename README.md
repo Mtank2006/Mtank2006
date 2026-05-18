@@ -1,5 +1,5 @@
-<h2 align="center" style="color:#65B524FF;">
-  Hi there 👋
+<h2 align="center">
+  <span style="color:#65B524;">Hi there 👋</span>
 </h2>
 
 <p align="center">
