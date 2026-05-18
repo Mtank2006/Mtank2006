@@ -1,5 +1,13 @@
 ## Hi there 👋
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=65B524&width=435&lines=I'm+Ayush+Suman.)](https://git.io/typing-svg)</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=65B524&width=435&lines=I%27m+Ayush+Suman." 
+      alt="Typing SVG" 
+    />
+  </a>
+</h1>
 <!--
 **Mtank2006/Mtank2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
