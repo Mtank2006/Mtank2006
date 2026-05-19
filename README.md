@@ -17,7 +17,7 @@
   <a href="https://www.x.com/ayushsuman_18" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushsuman_18" height="30" width="40" />
   </a>
-  <a href="https://www.reddit.com/ayushsuman" target="blank">
+  <a href="https://www.reddit.com/u/ayushsuman" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="ayushsuman" height="30" width="40" />
   </a>
 </p>
